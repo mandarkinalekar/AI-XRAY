@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "File Uploader",
+    "slug": "file-uploader",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0"
+  }
+}
